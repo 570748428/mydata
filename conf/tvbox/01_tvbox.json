@@ -4,7 +4,7 @@
 		{
 			"name": "live",
 			"type": 0,
-			"url": "https://www.cttv.vip/ys/json/ctzb.txt",
+			"url": "https://raw.githubusercontent.com/570748428/mydata/master/conf/tvbox/02_tvbox.txt",
 			"epg": "http://san.qquu.bid:5678/index.php/?ch={name}&date={date}",
 			"logo": "https://www.cttv.vip/ys/images/{name}.png"
 		}
